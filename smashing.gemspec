@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
 
   s.files = Dir['README.md', 'javascripts/**/*', 'templates/**/*','templates/**/.[a-z]*', 'lib/**/*']
 
-  s.add_dependency('sass', '~> 3.4.24')
+  s.add_dependency('sass', '~>  3.7.4')
   s.add_dependency('coffee-script', '~> 2.4.1')
   s.add_dependency('execjs', '~> 2.7.0')
   s.add_dependency('sinatra', '~> 2.0.0')
